@@ -3,3 +3,5 @@
 - [M0n0wall firewall](https://m0n0.ch/wall/downloads.php)
 - [WebGUI CMS](http://www.webgui.org/)
 - [FOG computer cloning](https://fogproject.org/)
+- [Cacti](https://www.cacti.net/)
+- [AS Communication Gateway](https://github.com/open-as-team/open-as-cgw)
